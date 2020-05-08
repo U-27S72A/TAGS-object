@@ -1,1 +1,2 @@
 Another file
+Additional changes in this file (from GitHub server)
